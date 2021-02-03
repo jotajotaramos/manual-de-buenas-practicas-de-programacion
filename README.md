@@ -12,3 +12,5 @@ Cada archivo markdown contiene información sobre:
 - Detalle en texto de la buena práctica.
 - Código a refactorizar.
 - Refactorización para la aplicación de la buena práctica.
+
+## Índice
