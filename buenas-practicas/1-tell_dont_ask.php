@@ -1,3 +1,5 @@
+### Ejemplo de código de aplicación del principio "Tell don't ask".
+
 /**
  * Artículo de referencia
  *
