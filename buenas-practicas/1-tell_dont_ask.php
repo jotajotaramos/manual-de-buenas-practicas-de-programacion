@@ -42,7 +42,7 @@ class ControlRiego{
             //retornamos: Se ha llevado a cabo la acción de riego
         }
 
-        //retornamos: No se ha llevado a cano la acción de riego
+        //retornamos: No se ha llevado a cabo la acción de riego
 
     }
 }
