@@ -1,4 +1,4 @@
-/* Ejemplo de código de aplicación del principio de Liskov. L de S.O.L.I.D. */
+/* Ejemplo de código de aplicación del principio de sustitución de Liskov. L de S.O.L.I.D. */
 
 /**
  * Artículo de referencia
