@@ -1,8 +1,11 @@
-### Ejemplo de código de aplicación del principio de de abierto / cerrado. O de S.O.L.I.D.
+### Ejemplo de código de aplicación del principio abierto / cerrado. O de S.O.L.I.D.
+
+<?php
 
 /**
  * Artículo de referencia
  *
+ https://www.danielprimo.io/blog/manual-de-buenas-practicas-o-de-s-o-l-i-d-abierto-cerrado
  *
  */
 

@@ -1,5 +1,7 @@
 ### Ejemplo de código de aplicación del principio "Tell don't ask".
 
+<?php
+
 /**
  * Artículo de referencia
  *
@@ -15,6 +17,7 @@
  *	$instControlRiego->regar();
  * }
  */
+
 
 class ControlRiego{
 

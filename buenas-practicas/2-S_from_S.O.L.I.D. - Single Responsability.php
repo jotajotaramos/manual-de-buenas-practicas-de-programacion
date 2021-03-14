@@ -1,5 +1,7 @@
 ### Ejemplo de código de aplicación del principio de responsabilidad única. S de S.O.L.I.D.
 
+<?php
+
 /**
  * Artículo de referencia
  *
@@ -11,6 +13,7 @@
  * Violación del principio
  *
  */
+
 
 class Invoice{
 		
