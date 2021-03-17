@@ -109,7 +109,52 @@ class MySQL implements Persistance{
 
 }
 
+class User{
 
+	private $persistance;
+	
+	public function __construct(Persistance $persistance){
+	
+		$this->persistance = $persistance;
+	
+	}
+	
+	public function saveUser($name, $email){
+	
+		$this->persistance->addUser($name, $user);
+	
+	}
 
+}
 
+class Client{
 
+	private $persistance;
+	
+	public function __construct(Persistance $persistance){
+	
+		$this->persistance = $persistance;
+	
+	}
+	
+	public function saveClient($name, $email){
+	
+		$this->persistance->addClient($name, $user);
+	
+	}
+
+}
+
+$persistance = new MySQL();
+
+//persistencia de usuario
+$userName = "Alberto Sánchez";
+$userEmail = "albertoS@example.com";
+$user = new User($persistance);
+$user->saveUser ($userName, $userEmail);
+
+//persistencia de cliente
+$clientName = "Captura de cangrejo azul S.A.";
+$clientEmail = "capturaC@example.com";
+$client = new Client($persistance);
+$client->saveClient($clientName, $clientEmail);
