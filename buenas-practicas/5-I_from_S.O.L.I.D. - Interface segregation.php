@@ -5,7 +5,7 @@
 /**
  * Artículo de referencia
  *
- *
+ https://www.danielprimo.io/blog/manual-de-buenas-practicas-i-de-s-o-l-i-d-segregacion-de-la-interfaz
  *
  */
 
