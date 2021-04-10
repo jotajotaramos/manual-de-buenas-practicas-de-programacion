@@ -3,6 +3,7 @@
 /**
  * Artículo de referencia
  *
+ https://www.danielprimo.io/blog/manual-de-buenas-practicas-l-de-s-o-l-i-d-sustitucion-de-liskov
  *
  */
 
