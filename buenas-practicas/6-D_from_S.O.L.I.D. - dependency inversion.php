@@ -5,7 +5,7 @@
 /**
  * Artículo de referencia
  *
- *
+ https://www.danielprimo.io/blog/manual-de-buenas-practicas-d-de-s-o-l-i-d-inversion-de-dependencia
  *
  */
 
